@@ -9,5 +9,5 @@ Dreifingarflipinn sýnir spá módels miðað við magn laxeldis sem stillt er �
 
 
 Til þess að keyra módelið á eigin tölvu er fyrst náð í allar skrárnar.    
-laxadata.RData er sett inn í Shiny möppuna og mappan opnuð sem working directory í RStudio.     
-Annað hvort ui.R eða server.R er opnað og keyrt.
+.RData er loadað í R og excel reader keyrt til þess að ná í gögn úr excel skrám.     
+app.R keyrt.
